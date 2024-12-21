@@ -75,7 +75,7 @@
 ## 🎨 Portfolio
 
 <div align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/pets-app-f06fd.appspot.com/o/New%2FScreenshot_2.png?alt=media&token=f50d632e-831b-4632-a296-1d81c138fc1f" alt="Project 1" style="border-radius:10px;" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/pets-app-f06fd.appspot.com/o/New%2FScreenshot_2.png?alt=media&token=f50d632e-831b-4632-a296-1d81c138fc1f" alt="Project 1" height="200", width="200" style="border-radius:10px;" />
   <img src="https://via.placeholder.com/200x200.png" alt="Project 2" style="border-radius:10px;" />
   <img src="https://via.placeholder.com/200x200.png" alt="Project 3" style="border-radius:10px;" />
   <img src="https://via.placeholder.com/200x200.png" alt="Project 4" style="border-radius:10px;" />
