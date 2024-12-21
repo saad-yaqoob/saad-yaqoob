@@ -1,10 +1,4 @@
-# Hi there 👋
-
-![Animated Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+Saad's+GitHub+Profile)
-
----
-
-## 🌟 Welcome to My World 🌟
+# 🌟 Welcome to My World 🌟
 
 **Hi, I'm Saad Yaqoob!**
 
@@ -26,14 +20,14 @@
 
 ## 🖥️ Languages & Technologies
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -72,20 +66,6 @@
 
 ---
 
-## 🎨 Portfolio
-
-<div align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/pets-app-f06fd.appspot.com/o/New%2FScreenshot_2.png?alt=media&token=f50d632e-831b-4632-a296-1d81c138fc1f" alt="Project 1" height="200", width="200", style="border-radius:10px;" />
-   <img src="https://firebasestorage.googleapis.com/v0/b/pets-app-f06fd.appspot.com/o/New%2FScreenshot_5.png?alt=media&token=91723379-5e6f-4f5b-92e6-408095d2556c" alt="Project 2" height="200", width="200", style="border-radius:10px;" />
-   <img src="https://firebasestorage.googleapis.com/v0/b/pets-app-f06fd.appspot.com/o/New%2FScreenshot_2.png?alt=media&token=f50d632e-831b-4632-a296-1d81c138fc1f" alt="Project 3" height="200", width="200", style="border-radius:10px;" />
-   <img src="https://firebasestorage.googleapis.com/v0/b/pets-app-f06fd.appspot.com/o/New%2FScreenshot_2.png?alt=media&token=f50d632e-831b-4632-a296-1d81c138fc1f](https://firebasestorage.googleapis.com/v0/b/pets-app-f06fd.appspot.com/o/New%2FScreenshot_5.png?alt=media&token=91723379-5e6f-4f5b-92e6-408095d2556c)" alt="Project 4" height="200", width="200", style="border-radius:10px;" />
-
-  
- 
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saad-yaqoob)
@@ -94,4 +74,4 @@
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+> "Everybody should learn to program a computer, because it teaches you how to think." — Steve Jobs
