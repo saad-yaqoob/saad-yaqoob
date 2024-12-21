@@ -75,7 +75,7 @@
 ## 🎨 Portfolio
 
 <div align="center">
-  <img src="https://via.placeholder.com/200x200.png" alt="Project 1" style="border-radius:10px;" />
+  <img src="https://cdn.dribbble.com/userupload/12017863/file/original-81427c44c3bb53199e8c3db7196ffd9a.png?resize=752x&vertical=center" alt="Project 1" style="border-radius:10px;" />
   <img src="https://via.placeholder.com/200x200.png" alt="Project 2" style="border-radius:10px;" />
   <img src="https://via.placeholder.com/200x200.png" alt="Project 3" style="border-radius:10px;" />
   <img src="https://via.placeholder.com/200x200.png" alt="Project 4" style="border-radius:10px;" />
